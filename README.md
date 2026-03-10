@@ -1,1 +1,0 @@
-# hardened-nginx-configs
